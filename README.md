@@ -18,7 +18,7 @@ This project focuses on building a deep learning-based rice seed classification 
 - **Libraries:** TensorFlow, Keras, NumPy, OpenCV, Matplotlib  
 - **Model Architecture:** CNN + FPN (Feature Pyramid Networks)  
 - **Datasets:**  
-  - [Kaggle Grayscale Dataset](https://www.kaggle.com/datasets)  
+  - [Kaggle Grayscale Dataset](https://www.kaggle.com/datasets/muratkokludataset/rice-image-dataset)  
   - Custom RGB Dataset (KAU - Kerala Agricultural University)  
 
 > **Note:** The KAU dataset is not uploaded to this repository due to its large size. Please contact me directly if you need access to it for academic or research purposes.
