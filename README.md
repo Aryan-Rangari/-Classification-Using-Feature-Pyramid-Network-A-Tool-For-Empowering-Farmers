@@ -32,4 +32,4 @@ This project focuses on building a deep learning-based rice seed classification 
 
 ---
 
-lassification
+
